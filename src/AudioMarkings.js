@@ -35,3 +35,4 @@ AudioMarkings.prototype.createSignalsArray = function(trueFundamental, fundament
 
   return waveArray;
 }
+//prueba
